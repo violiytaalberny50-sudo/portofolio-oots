@@ -87,12 +87,12 @@
 		<h1
 			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[232px] lg:tracking-[-9px]"
 		>
-			Nama Kamu
+			Halo, Violyta Alberny
 		</h1>
 
 		<div class="mt-7 flex flex-col gap-6">
 			<p class="max-w-[560px] text-[17px] leading-[1.6] text-muted lg:text-xl">
-				Siswa SMK jurusan RPL. Membangun antarmuka web yang cepat, rapi, dan mudah dipakai.
+				Siswa SMK jurusan PPLG. Membangun antarmuka web yang cepat, rapi, dan mudah dipakai.
 			</p>
 
 			<div class="flex items-center gap-3">
@@ -120,11 +120,11 @@
 	<div class="border-t border-line">
 		<img
 			src={theme === 'dark' ? '/images/band-dark.png' : '/images/band-light.png'}
-			alt="Foto kegiatan lab RPL"
+			alt="Foto kegiatan lab PPLG"
 			class="h-[220px] w-full object-cover lg:h-[420px]"
 		/>
 		<div class="mx-auto max-w-[1440px] px-6 py-4 lg:px-24">
-			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB RPL — SMK NEGERI 1 · 2026</p>
+			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB PPLG — SMK NEGERI 8 · 2026</p>
 		</div>
 	</div>
 
